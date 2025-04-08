@@ -1,1 +1,2 @@
 # AdvertisingCircleLogos
+大阪大学広告サークルのロゴを生成するpythonコード
